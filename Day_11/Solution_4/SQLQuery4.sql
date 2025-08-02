@@ -4,90 +4,6 @@
 SELECT DepartmentCode, sum(PresentBasic) summ FROM tblEmployees as emp
 GROUP BY DepartmentCode having sum(PresentBasic)>30000 order by DepartmentCode;
 
---2.       Write a query to Get Max , Min and Average age of employees by service Type , Service Status for each Centre (display in years and Months)
-select emp.CentreCode,emp.ServiceType,emp.ServiceStatus,
-CONVERT(varchar(10), MAX(DATEDIFF(MM, EMP.DOB,GETDATE())/12))+'years' + 
-CONVERT(varchar(10), MAX(DATEDIFF(MM, EMP.DOB,GETDATE())%12)) + 'months' AS MAX_AGE,
-CONVERT(varchar(10), MIN(DATEDIFF(MM, EMP.DOB,GETDATE())/12)) + 'years' +
-CONVERT(varchar(10), MAX(DATEDIFF(MM, EMP.DOB, GETDATE())%12)) + 'months' AS MIN_AGE, 
-CONVERT(varchar(10), AVG(DATEDIFF(MM, EMP.DOB, GETDATE())/12)) + 'years' +
-CONVERT(varchar(10), AVG(DATEDIFF(MM, EMP.DOB, GETDATE())%12)) + 'months' as AVG_AGE
-FROM dbo.tblEmployees as emp
-group by emp.CentreCode,emp.ServiceType,emp.ServiceStatus
-order by emp.CentreCode,emp.ServiceType,emp.ServiceStatus;
-
--- 3: Get Employees whose First, Middle, or Last Name is exactly 'Ram' and nothing else
-
-SELECT Name
-FROM tblEmployees
-WHERE 
-    RTRIM(LTRIM(Name)) = 'Ram' OR
-    CHARINDEX(' Ram ', ' ' + Name + ' ') > 0;
-
--- 4: SQL Bitwise Operations
-SELECT 65 | 11 AS Result;  
-SELECT 65 ^ 11 AS Result;  
-SELECT 65 & 11 AS Result;  
-SELECT (12 & 4) | (13 & 1) AS Result;  
-SELECT 127 | 64 AS Result;  
-SELECT 127 ^ 64 AS Result;  
-SELECT 127 ^ 128 AS Result;
-SELECT 127 & 64 AS Result; 
-SELECT 127 & 128 AS Result;  
-
--- 5: Return all columns from dbo.tblCentreMaster
-SELECT *
-FROM tblCentreMaster;
-
---6: Return distinct employee types in the organization
-
-SELECT DISTINCT EmployeeType
-FROM tblEmployees;
-
---7  Return Name, FatherName, DOB of employees based on PresentBasic
-
-SELECT Name, FatherName, DOB
-FROM tblEmployees
-WHERE PresentBasic > 3000;
-
-SELECT Name, FatherName, DOB
-FROM tblEmployees
-WHERE PresentBasic < 3000;
-
-SELECT Name, FatherName, DOB
-FROM tblEmployees
-WHERE PresentBasic BETWEEN 3000 AND 5000;
-
---8 Return all employee details based on Name
-
-SELECT *
-FROM tblEmployees
-WHERE Name LIKE '%KHAN';
-
-SELECT *
-FROM tblEmployees
-WHERE Name LIKE 'CHANDRA%';
-
-SELECT *
-FROM tblEmployees
-WHERE 
-    Name LIKE '_.RAMESH' AND
-    UPPER(LEFT(Name, 1)) BETWEEN 'A' AND 'T';
-
-
-
--- Questions for Exercise_2
-
--- 1: Total PresentBasic per Department, where sum > 30000, sorted by dept
-
-SELECT DepartmentCode,
-       SUM(PresentBasic) AS TotalPresentBasic
-FROM tblEmployees
-GROUP BY DepartmentCode
-HAVING SUM(PresentBasic) > 30000
-ORDER BY DepartmentCode;
-
-
 --2: Max, Min & Avg Age by ServiceType, ServiceStatus, and Centre
 
 SELECT CentreCode, ServiceType, ServiceStatus,
@@ -96,6 +12,7 @@ SELECT CentreCode, ServiceType, ServiceStatus,
        AVG(DATEDIFF(YEAR, DOB, GETDATE())) AS AvgAgeYears
 FROM tblEmployees
 GROUP BY CentreCode, ServiceType, ServiceStatus;
+
 
 
 --3: Max, Min & Avg Service Duration (tenure) by same groups
