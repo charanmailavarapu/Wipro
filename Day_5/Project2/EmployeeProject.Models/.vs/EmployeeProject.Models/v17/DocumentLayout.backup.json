@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC975DC5-CDBC-4446-A4B6-7A2FA14B5509}|..\\EmployProject.MainOne\\EmployProject.MainOne.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\project2\\employproject.mainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6CB08D-4553-459C-ABEE-3B355AFFAEFE}|..\\EmployeeProject.Dao\\EmployeeProject.Dao.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\project2\\employeeproject.dao\\employdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65860861-BA1C-4EC7-96C3-C84647E67323}|..\\EmployeeProject.Bal\\EmployeeProject.Bal.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\project2\\employeeproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB3A3E0-B071-4439-8DA1-7646E411F701}|..\\EmployeeProject.Exceptions\\EmployeeProject.Exceptions.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\project2\\employeeproject.exceptions\\employeeexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6CB08D-4553-459C-ABEE-3B355AFFAEFE}|..\\EmployeeProject.Dao\\EmployeeProject.Dao.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\project2\\employeeproject.dao\\iemploydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7BD2AF-CA45-41CD-B467-317D23287AAA}|EmployeeProject.Models\\EmployeeProject.Models.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\project2\\employeeproject.models\\employeeproject.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7BD2AF-CA45-41CD-B467-317D23287AAA}|EmployeeProject.Models\\EmployeeProject.Models.csproj|solutionrelative:employeeproject.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployProject.MainOne\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.MainOne\\Program.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployProject.MainOne\\Program.cs",
+              "RelativeToolTip": "..\\EmployProject.MainOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:47:06.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployBal.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Bal\\EmployBal.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeProject.Bal\\EmployBal.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Bal\\EmployBal.cs",
+              "RelativeToolTip": "..\\EmployeeProject.Bal\\EmployBal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:55:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Dao\\EmployDaoImpl.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeProject.Dao\\EmployDaoImpl.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Dao\\EmployDaoImpl.cs",
+              "RelativeToolTip": "..\\EmployeeProject.Dao\\EmployDaoImpl.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswFUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:17:02.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployDao.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Dao\\IEmployDao.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeProject.Dao\\IEmployDao.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Dao\\IEmployDao.cs",
+              "RelativeToolTip": "..\\EmployeeProject.Dao\\IEmployDao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:51:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Exceptions\\EmployeeExceptions.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeProject.Exceptions\\EmployeeExceptions.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Exceptions\\EmployeeExceptions.cs",
+              "RelativeToolTip": "..\\EmployeeProject.Exceptions\\EmployeeExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:30:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Models\\EmployeeProject.Models\\Employ.cs",
+              "RelativeDocumentMoniker": "EmployeeProject.Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\Project2\\EmployeeProject.Models\\EmployeeProject.Models\\Employ.cs",
+              "RelativeToolTip": "EmployeeProject.Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T04:14:22.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_10\\dipwith\\dipwith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_10\\dipwith\\dipwith\\trainerutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\trainerutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_10\\dipwith\\dipwith\\dotnetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\dotnetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_10\\dipwith\\dipwith\\javainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\javainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_10\\dipwith\\dipwith\\itrainerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9071E29D-28B8-4236-BD55-6CF5A4648EBE}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\itrainerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainerUtil.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\TrainerUtil.cs",
+              "RelativeDocumentMoniker": "DipWith\\TrainerUtil.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\TrainerUtil.cs",
+              "RelativeToolTip": "DipWith\\TrainerUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:16:05.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DotnetInfo.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\DotnetInfo.cs",
+              "RelativeDocumentMoniker": "DipWith\\DotnetInfo.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\DotnetInfo.cs",
+              "RelativeToolTip": "DipWith\\DotnetInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:14:33.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JavaInfo.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\JavaInfo.cs",
+              "RelativeDocumentMoniker": "DipWith\\JavaInfo.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\JavaInfo.cs",
+              "RelativeToolTip": "DipWith\\JavaInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:12:12.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITrainerData.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\ITrainerData.cs",
+              "RelativeDocumentMoniker": "DipWith\\ITrainerData.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\ITrainerData.cs",
+              "RelativeToolTip": "DipWith\\ITrainerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:09:13.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\Program.cs",
+              "RelativeDocumentMoniker": "DipWith\\Program.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_10\\DipWith\\DipWith\\Program.cs",
+              "RelativeToolTip": "DipWith\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T06:07:05.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

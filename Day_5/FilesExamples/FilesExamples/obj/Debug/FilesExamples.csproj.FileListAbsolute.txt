@@ -1,0 +1,8 @@
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\FilesExamples\FilesExamples\bin\Debug\FilesExamples.exe.config
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\FilesExamples\FilesExamples\bin\Debug\FilesExamples.exe
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\FilesExamples\FilesExamples\bin\Debug\FilesExamples.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\FilesExamples\FilesExamples\obj\Debug\FilesExamples.csproj.AssemblyReference.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\FilesExamples\FilesExamples\obj\Debug\FilesExamples.csproj.CoreCompileInputs.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\FilesExamples\FilesExamples\obj\Debug\FilesExamples.exe
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\FilesExamples\FilesExamples\obj\Debug\FilesExamples.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\FilesExamples\FilesExamples\obj\Debug\FilesExamples.exe.config

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_2\\day_2\\perfectsquareornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|solutionrelative:day_2\\perfectsquareornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_2\\day_2\\perfectsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|solutionrelative:day_2\\perfectsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Day_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_2\\day_2\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|solutionrelative:day_2\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_2\\day_2\\maxof3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|solutionrelative:day_2\\maxof3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_2\\day_2\\milestoneex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|solutionrelative:day_2\\milestoneex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_2\\day_2\\milestoneex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|solutionrelative:day_2\\milestoneex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_2\\day_2\\arraystr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|solutionrelative:day_2\\arraystr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\day_2\\arrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|solutionrelative:day_2\\arrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\day_2\\arraycopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|solutionrelative:day_2\\arraycopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0987C9-580D-49DE-9208-5F650370B58D}|Day_2\\Day_2.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_2\\day_2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerfectSquareOrNot.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\PerfectSquareOrNot.cs",
+              "RelativeDocumentMoniker": "Day_2\\PerfectSquareOrNot.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\PerfectSquareOrNot.cs",
+              "RelativeToolTip": "Day_2\\PerfectSquareOrNot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:49:50.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\Factorial.cs",
+              "RelativeDocumentMoniker": "Day_2\\Factorial.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\Factorial.cs",
+              "RelativeToolTip": "Day_2\\Factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:26:53.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerfectSquare.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\PerfectSquare.cs",
+              "RelativeDocumentMoniker": "Day_2\\PerfectSquare.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\PerfectSquare.cs",
+              "RelativeToolTip": "Day_2\\PerfectSquare.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:07:15.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaxOf3.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\MaxOf3.cs",
+              "RelativeDocumentMoniker": "Day_2\\MaxOf3.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\MaxOf3.cs",
+              "RelativeToolTip": "Day_2\\MaxOf3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:00:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MileStoneEx2.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\MileStoneEx2.cs",
+              "RelativeDocumentMoniker": "Day_2\\MileStoneEx2.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\MileStoneEx2.cs",
+              "RelativeToolTip": "Day_2\\MileStoneEx2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:52:59.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MileStoneEx1.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\MileStoneEx1.cs",
+              "RelativeDocumentMoniker": "Day_2\\MileStoneEx1.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\MileStoneEx1.cs",
+              "RelativeToolTip": "Day_2\\MileStoneEx1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:41:55.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArrayStr.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\ArrayStr.cs",
+              "RelativeDocumentMoniker": "Day_2\\ArrayStr.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\ArrayStr.cs",
+              "RelativeToolTip": "Day_2\\ArrayStr.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:51:15.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArrayExample.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\ArrayExample.cs",
+              "RelativeDocumentMoniker": "Day_2\\ArrayExample.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\ArrayExample.cs",
+              "RelativeToolTip": "Day_2\\ArrayExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T18:57:49.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Day_2",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\Day_2.csproj",
+              "RelativeDocumentMoniker": "Day_2\\Day_2.csproj",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\Day_2.csproj",
+              "RelativeToolTip": "Day_2\\Day_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-26T18:05:46.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArrayCopy.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\ArrayCopy.cs",
+              "RelativeDocumentMoniker": "Day_2\\ArrayCopy.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_2\\Day_2\\ArrayCopy.cs",
+              "RelativeToolTip": "Day_2\\ArrayCopy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T17:58:50.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

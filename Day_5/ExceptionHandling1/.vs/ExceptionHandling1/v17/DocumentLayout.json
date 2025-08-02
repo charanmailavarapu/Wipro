@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5973E8-7D7D-40EC-84C7-B04982B589FE}|ExceptionHandling1\\ExceptionHandling1.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\exceptionhandling1\\exceptionhandling1\\filter_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5973E8-7D7D-40EC-84C7-B04982B589FE}|ExceptionHandling1\\ExceptionHandling1.csproj|solutionrelative:exceptionhandling1\\filter_example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExceptionHandling1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5973E8-7D7D-40EC-84C7-B04982B589FE}|ExceptionHandling1\\ExceptionHandling1.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\exceptionhandling1\\exceptionhandling1\\filter_example_exemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5973E8-7D7D-40EC-84C7-B04982B589FE}|ExceptionHandling1\\ExceptionHandling1.csproj|solutionrelative:exceptionhandling1\\filter_example_exemption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5973E8-7D7D-40EC-84C7-B04982B589FE}|ExceptionHandling1\\ExceptionHandling1.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\exceptionhandling1\\exceptionhandling1\\filterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5973E8-7D7D-40EC-84C7-B04982B589FE}|ExceptionHandling1\\ExceptionHandling1.csproj|solutionrelative:exceptionhandling1\\filterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5973E8-7D7D-40EC-84C7-B04982B589FE}|ExceptionHandling1\\ExceptionHandling1.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\exceptionhandling1\\exceptionhandling1\\filter_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5973E8-7D7D-40EC-84C7-B04982B589FE}|ExceptionHandling1\\ExceptionHandling1.csproj|solutionrelative:exceptionhandling1\\filter_example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5973E8-7D7D-40EC-84C7-B04982B589FE}|ExceptionHandling1\\ExceptionHandling1.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\exceptionhandling1\\exceptionhandling1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filter_Example_Exemption.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\Filter_Example_Exemption.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling1\\Filter_Example_Exemption.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\Filter_Example_Exemption.cs",
+              "RelativeToolTip": "ExceptionHandling1\\Filter_Example_Exemption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:30:16.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filter_Example2.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\Filter_Example2.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling1\\Filter_Example2.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\Filter_Example2.cs",
+              "RelativeToolTip": "ExceptionHandling1\\Filter_Example2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:29:08.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandling1",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\ExceptionHandling1.csproj",
+              "RelativeDocumentMoniker": "ExceptionHandling1\\ExceptionHandling1.csproj",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\ExceptionHandling1.csproj",
+              "RelativeToolTip": "ExceptionHandling1\\ExceptionHandling1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T05:27:07.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filter_Example.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\Filter_Example.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling1\\Filter_Example.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\Filter_Example.cs",
+              "RelativeToolTip": "ExceptionHandling1\\Filter_Example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:03:21.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterException.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\FilterException.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling1\\FilterException.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\ExceptionHandling1\\ExceptionHandling1\\FilterException.cs",
+              "RelativeToolTip": "ExceptionHandling1\\FilterException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:19:41.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
