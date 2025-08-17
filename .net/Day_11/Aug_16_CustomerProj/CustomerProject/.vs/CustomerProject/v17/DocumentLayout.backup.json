@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|d:\\wipro_practice\\.net\\day_11\\aug_16_customerproj\\customerproject\\customerproject\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|d:\\wipro_practice\\.net\\day_11\\aug_16_customerproj\\customerproject\\customerproject\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|d:\\wipro_practice\\.net\\day_11\\aug_16_customerproj\\customerproject\\customerproject\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|d:\\wipro_practice\\.net\\day_11\\aug_16_customerproj\\customerproject\\customerproject\\models\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\models\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|d:\\wipro_practice\\.net\\day_11\\aug_16_customerproj\\customerproject\\customerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|d:\\wipro_practice\\.net\\day_11\\aug_16_customerproj\\customerproject\\customerproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|d:\\wipro_practice\\.net\\day_11\\aug_16_customerproj\\customerproject\\customerproject\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|d:\\wipro_practice\\.net\\day_11\\aug_16_customerproj\\customerproject\\customerproject\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35515644-EFC9-4F17-B3A2-C8B0CC434F4B}|CustomerProject\\CustomerProject.csproj|solutionrelative:customerproject\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wipro_Practice\\react\\bankproject\\BankProject\\Middleware\\DecryptionHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalletsController.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Controllers\\WalletsController.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Controllers\\WalletsController.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Controllers\\WalletsController.cs",
+              "RelativeToolTip": "CustomerProject\\Controllers\\WalletsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T10:30:54.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Models\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Models\\CustomerDbContext.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Models\\CustomerDbContext.cs",
+              "RelativeToolTip": "CustomerProject\\Models\\CustomerDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T10:29:09.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Models\\Wallet.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Models\\Wallet.cs",
+              "RelativeToolTip": "CustomerProject\\Models\\Wallet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T10:16:41.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Models\\Customer.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerProject\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:21:55.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerProject\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T07:19:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\react\\bankproject\\BankProject\\Middleware\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\react\\bankproject\\BankProject\\Middleware\\DecryptionHelper.cs",
+              "ToolTip": "D:\\Wipro_Practice\\react\\bankproject\\BankProject\\Middleware\\DecryptionHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\react\\bankproject\\BankProject\\Middleware\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:31:37.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Program.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Program.cs",
+              "RelativeToolTip": "CustomerProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:56:23.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "CustomerProject\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:52:29.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Middleware\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "CustomerProject\\Middleware\\DecryptionHelper.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_16_CustomerProj\\CustomerProject\\CustomerProject\\Middleware\\DecryptionHelper.cs",
+              "RelativeToolTip": "CustomerProject\\Middleware\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:55:26.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

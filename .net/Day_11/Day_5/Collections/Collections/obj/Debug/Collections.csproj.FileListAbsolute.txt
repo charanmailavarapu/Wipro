@@ -1,0 +1,8 @@
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Collections\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Collections\Collections\obj\Debug\Collections.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Collections\Collections\obj\Debug\Collections.exe.config

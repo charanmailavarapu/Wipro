@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\CalculationLibarary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61ED2320-24BA-4EF3-A2E7-C255898D3F93}|CalculationLibarary\\CalculationLibarary.csproj|C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\CalculationLibarary\\calculationlibarary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61ED2320-24BA-4EF3-A2E7-C255898D3F93}|CalculationLibarary\\CalculationLibarary.csproj|solutionrelative:calculationlibarary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012263DF-EBF0-4DEF-AFEE-C4F37D3BD317}|CalculationClient\\CalculationClient.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\calculationlibarary\\calculationclient\\calculationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012263DF-EBF0-4DEF-AFEE-C4F37D3BD317}|CalculationClient\\CalculationClient.csproj|solutionrelative:calculationclient\\calculationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationClient.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\CalculationLibarary\\CalculationClient\\CalculationClient.cs",
+              "RelativeDocumentMoniker": "CalculationClient\\CalculationClient.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\CalculationLibarary\\CalculationClient\\CalculationClient.cs",
+              "RelativeToolTip": "CalculationClient\\CalculationClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:43:50.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\CalculationLibarary\\CalculationLibarary\\Calculation.cs",
+              "RelativeDocumentMoniker": "CalculationLibarary\\Calculation.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\CalculationLibarary\\CalculationLibarary\\Calculation.cs",
+              "RelativeToolTip": "CalculationLibarary\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:42:03.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

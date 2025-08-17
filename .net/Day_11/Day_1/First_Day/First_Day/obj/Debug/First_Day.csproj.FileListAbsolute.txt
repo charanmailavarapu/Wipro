@@ -1,0 +1,8 @@
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_1\First_Day\First_Day\bin\Debug\First_Day.exe.config
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_1\First_Day\First_Day\bin\Debug\First_Day.exe
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_1\First_Day\First_Day\bin\Debug\First_Day.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_1\First_Day\First_Day\obj\Debug\First_Day.csproj.AssemblyReference.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_1\First_Day\First_Day\obj\Debug\First_Day.csproj.CoreCompileInputs.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_1\First_Day\First_Day\obj\Debug\First_Day.exe
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_1\First_Day\First_Day\obj\Debug\First_Day.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_1\First_Day\First_Day\obj\Debug\First_Day.exe.config

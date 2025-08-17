@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+    <script>
+        function status() {
+        var result = "";
+        if(frmData.chkStatus.checked == true) {
+            result += "Present...";
+        }
+        else {
+            result += "Absent...";
+        }
+        document.getElementById("result").innerHTML = result;
+    
+         }
+    </script>
+</head>
+<body>
+    <form name ="frmData">
+        <center>
+        Status :
+        <input type="checkbox" name = "chkStatus" onchange="status()"><br>
+        <span id = "result"></span>
+        </center>
+
+    </form>
+</body>
+</html>

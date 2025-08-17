@@ -1,0 +1,6 @@
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.AssemblyReference.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_2\Assignment_2\bin\Debug\Assignment_2.dll
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.dll
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb

@@ -1,0 +1,2 @@
+C:\Users\RAVI SAI KIRAN\Downloads\.net\CalculationLibarary\CalculationClient\obj\Debug\CalculationClient.csproj.AssemblyReference.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\CalculationLibarary\CalculationClient\obj\Debug\CalculationClient.csproj.CoreCompileInputs.cache

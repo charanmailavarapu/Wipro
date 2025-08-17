@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\FilesExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DEADE7-907F-4CDE-967C-FA00763441C1}|FilesExamples\\FilesExamples.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\filesexamples\\filesexamples\\filereadexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DEADE7-907F-4CDE-967C-FA00763441C1}|FilesExamples\\FilesExamples.csproj|solutionrelative:filesexamples\\filereadexample1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FilesExamples||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DEADE7-907F-4CDE-967C-FA00763441C1}|FilesExamples\\FilesExamples.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\filesexamples\\filesexamples\\binaryreaderexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DEADE7-907F-4CDE-967C-FA00763441C1}|FilesExamples\\FilesExamples.csproj|solutionrelative:filesexamples\\binaryreaderexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DEADE7-907F-4CDE-967C-FA00763441C1}|FilesExamples\\FilesExamples.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\filesexamples\\filesexamples\\binarywriterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DEADE7-907F-4CDE-967C-FA00763441C1}|FilesExamples\\FilesExamples.csproj|solutionrelative:filesexamples\\binarywriterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DEADE7-907F-4CDE-967C-FA00763441C1}|FilesExamples\\FilesExamples.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_5\\filesexamples\\filesexamples\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileReadExample1.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\FilesExamples\\FilesExamples\\FileReadExample1.cs",
+              "RelativeDocumentMoniker": "FilesExamples\\FileReadExample1.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\FilesExamples\\FilesExamples\\FileReadExample1.cs",
+              "RelativeToolTip": "FilesExamples\\FileReadExample1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:09:08.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinaryReaderExample.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\FilesExamples\\FilesExamples\\BinaryReaderExample.cs",
+              "RelativeDocumentMoniker": "FilesExamples\\BinaryReaderExample.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\FilesExamples\\FilesExamples\\BinaryReaderExample.cs",
+              "RelativeToolTip": "FilesExamples\\BinaryReaderExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:42:04.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilesExamples",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\FilesExamples\\FilesExamples\\FilesExamples.csproj",
+              "RelativeDocumentMoniker": "FilesExamples\\FilesExamples.csproj",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\FilesExamples\\FilesExamples\\FilesExamples.csproj",
+              "RelativeToolTip": "FilesExamples\\FilesExamples.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T09:36:20.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinaryWriterExample.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\FilesExamples\\FilesExamples\\BinaryWriterExample.cs",
+              "RelativeDocumentMoniker": "FilesExamples\\BinaryWriterExample.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_5\\FilesExamples\\FilesExamples\\BinaryWriterExample.cs",
+              "RelativeToolTip": "FilesExamples\\BinaryWriterExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:26:29.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

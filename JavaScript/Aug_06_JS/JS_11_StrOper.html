@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <script>
+        function show() {
+            var result = "";
+            var str = "Welcome to Javascipt From Charan..";
+            result += "Length is " + str.length + "<br/>";
+            result += "Index of Char 'a' is " + str.indexOf("a") + "<br/>";
+            result += "Char at 5th Position is " + str.charAt(5) + "<br/>";
+            result += "Lower Case String is " + str.toLowerCase() + "<br/>";
+            result += "Upper Case String is " + str.toUpperCase() + "<br/>";
+            result += "Part of String is " + str.substring(5, 10) + "<br/>";
+            result += "Replaced String is " + str.replace("Javascipt", "HTML") + "<br/>";
+            document.getElementById("result").innerHTML = result;
+
+        }
+    </script>
+
+</head>
+
+<body onload="show()">
+    <span id="result"></span>
+
+</body>
+
+</html>

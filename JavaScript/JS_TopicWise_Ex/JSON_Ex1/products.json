@@ -1,0 +1,8 @@
+{
+    "employees" : [
+        {"fName" : "charan", "lname" : "M"},
+        {"fName" : "Ajay", "lname" : "N"},
+        {"fName" : "Shanmukh", "lname" : "V"}
+        
+    ]
+}

@@ -1,0 +1,13 @@
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\obj\Debug\EmployeeProject.Bal.csproj.AssemblyReference.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\obj\Debug\EmployeeProject.Bal.csproj.CoreCompileInputs.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\bin\Debug\EmployeeProject.Bal.dll
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\bin\Debug\EmployeeProject.Bal.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\bin\Debug\EmployeeProject.Dao.dll
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\bin\Debug\EmployeeProject.Exceptions.dll
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\bin\Debug\EmployeeProject.Models.dll
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\bin\Debug\EmployeeProject.Dao.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\bin\Debug\EmployeeProject.Exceptions.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\bin\Debug\EmployeeProject.Models.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\obj\Debug\Employee.7F483F2E.Up2Date
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\obj\Debug\EmployeeProject.Bal.dll
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Project2\EmployeeProject.Bal\obj\Debug\EmployeeProject.Bal.pdb

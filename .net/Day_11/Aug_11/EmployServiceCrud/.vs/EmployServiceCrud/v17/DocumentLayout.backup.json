@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|d:\\wipro_practice\\.net\\day_11\\aug_11\\employservicecrud\\employservicecrud\\employservicecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\employservicecrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|d:\\wipro_practice\\.net\\day_11\\aug_11\\employservicecrud\\employservicecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|d:\\wipro_practice\\.net\\day_11\\aug_11\\employservicecrud\\employservicecrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|d:\\wipro_practice\\.net\\day_11\\aug_11\\employservicecrud\\employservicecrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|d:\\wipro_practice\\.net\\day_11\\aug_11\\employservicecrud\\employservicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|d:\\wipro_practice\\.net\\day_11\\aug_11\\employservicecrud\\employservicecrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E1972-6ED6-4B74-BAB0-FBD922CFF956}|EmployServiceCrud\\EmployServiceCrud.csproj|solutionrelative:employservicecrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "EmployServiceCrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:22:01.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\Program.cs",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\Program.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\Program.cs",
+              "RelativeToolTip": "EmployServiceCrud\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:47:35.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\appsettings.json",
+              "RelativeToolTip": "EmployServiceCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T03:39:57.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "EmployServiceCrud\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:19:40.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployServiceCrud",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\EmployServiceCrud.csproj",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\EmployServiceCrud.csproj",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\EmployServiceCrud.csproj",
+              "RelativeToolTip": "EmployServiceCrud\\EmployServiceCrud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T03:13:10.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "EmployServiceCrud\\Models\\Employ.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_11\\EmployServiceCrud\\EmployServiceCrud\\Models\\Employ.cs",
+              "RelativeToolTip": "EmployServiceCrud\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T03:14:04.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

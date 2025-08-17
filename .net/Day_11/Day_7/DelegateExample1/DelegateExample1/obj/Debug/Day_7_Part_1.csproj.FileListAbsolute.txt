@@ -1,0 +1,8 @@
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\DelegateExample1\DelegateExample1\bin\Debug\DelegateExample1.exe.config
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\DelegateExample1\DelegateExample1\bin\Debug\DelegateExample1.exe
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\DelegateExample1\DelegateExample1\bin\Debug\DelegateExample1.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\DelegateExample1\DelegateExample1\obj\Debug\Day_7_Part_1.csproj.AssemblyReference.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\DelegateExample1\DelegateExample1\obj\Debug\Day_7_Part_1.csproj.CoreCompileInputs.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\DelegateExample1\DelegateExample1\obj\Debug\DelegateExample1.exe
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\DelegateExample1\DelegateExample1\obj\Debug\DelegateExample1.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\DelegateExample1\DelegateExample1\obj\Debug\DelegateExample1.exe.config

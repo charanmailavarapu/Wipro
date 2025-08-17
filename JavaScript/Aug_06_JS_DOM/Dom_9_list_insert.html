@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script>
+            const listAdd = () => {
+                var newLi = document.createElement("li");
+                newLi.innerHTML = "Sharan";
+                var students = document.getElementById("students");
+                students.insertBefore(newLi, students.children[1]);
+            }
+        </script>
+    </head>
+    <body onload="listAdd()">
+        <ol type="1" id="students">
+            <li>Charan</li>
+            <li>Surya</li>
+            <li>Reddy</li>
+            <li>Naresh</li>
+        </ol>
+        
+    </body>
+</html>

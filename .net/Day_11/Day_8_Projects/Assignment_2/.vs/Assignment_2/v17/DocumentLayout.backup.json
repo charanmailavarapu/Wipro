@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA67E90E-499C-42AE-A555-105DE160B6CC}|..\\LibraryMain\\LibraryMain.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_8_projects\\librarymain\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E854439C-9AD7-4C36-A84B-081985A827A1}|Assignment_2\\Assignment_2.csproj|C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\assignment_2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E854439C-9AD7-4C36-A84B-081985A827A1}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Assignment_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LibraryMain||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E854439C-9AD7-4C36-A84B-081985A827A1}|Assignment_2\\Assignment_2.csproj|C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\assignment_2\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E854439C-9AD7-4C36-A84B-081985A827A1}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E854439C-9AD7-4C36-A84B-081985A827A1}|Assignment_2\\Assignment_2.csproj|C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\assignment_2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E854439C-9AD7-4C36-A84B-081985A827A1}|Assignment_2\\Assignment_2.csproj|solutionrelative:assignment_2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E967A9D-9210-44E7-B470-9C2237999819}|NUnitBookTest\\NUnitBookTest.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_8_projects\\assignment_2\\nunitbooktest\\booktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E967A9D-9210-44E7-B470-9C2237999819}|NUnitBookTest\\NUnitBookTest.csproj|solutionrelative:nunitbooktest\\booktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E967A9D-9210-44E7-B470-9C2237999819}|NUnitBookTest\\NUnitBookTest.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_8_projects\\assignment_2\\nunitbooktest\\nunitbooktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E967A9D-9210-44E7-B470-9C2237999819}|NUnitBookTest\\NUnitBookTest.csproj|solutionrelative:nunitbooktest\\nunitbooktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E967A9D-9210-44E7-B470-9C2237999819}|NUnitBookTest\\NUnitBookTest.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_8_projects\\assignment_2\\nunitbooktest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E967A9D-9210-44E7-B470-9C2237999819}|NUnitBookTest\\NUnitBookTest.csproj|solutionrelative:nunitbooktest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E854439C-9AD7-4C36-A84B-081985A827A1}|Assignment_2\\Assignment_2.csproj|c:\\users\\ravi sai kiran\\downloads\\.net\\day_8_projects\\assignment_2\\assignment_2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryMain",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\LibraryMain\\LibraryMain.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryMain\\LibraryMain.csproj",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\LibraryMain\\LibraryMain.csproj",
+              "RelativeToolTip": "..\\LibraryMain\\LibraryMain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-03T18:53:23.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookTest.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\NUnitBookTest\\BookTest.cs",
+              "RelativeDocumentMoniker": "NUnitBookTest\\BookTest.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\NUnitBookTest\\BookTest.cs",
+              "RelativeToolTip": "NUnitBookTest\\BookTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:39:43.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NUnitBookTest.csproj",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\NUnitBookTest\\NUnitBookTest.csproj",
+              "RelativeDocumentMoniker": "NUnitBookTest\\NUnitBookTest.csproj",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\NUnitBookTest\\NUnitBookTest.csproj",
+              "RelativeToolTip": "NUnitBookTest\\NUnitBookTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T18:38:15.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\NUnitBookTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NUnitBookTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\NUnitBookTest\\UnitTest1.cs",
+              "RelativeToolTip": "NUnitBookTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:32:50.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment_2",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\Assignment_2\\Assignment_2.csproj",
+              "RelativeDocumentMoniker": "Assignment_2\\Assignment_2.csproj",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\Assignment_2\\Assignment_2.csproj",
+              "RelativeToolTip": "Assignment_2\\Assignment_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-03T16:26:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\Assignment_2\\Library.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Library.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\Assignment_2\\Library.cs",
+              "RelativeToolTip": "Assignment_2\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:48:15.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\Assignment_2\\Borrower.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Borrower.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\Assignment_2\\Borrower.cs",
+              "RelativeToolTip": "Assignment_2\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:43:25.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\Assignment_2\\Book.cs",
+              "RelativeDocumentMoniker": "Assignment_2\\Book.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\Assignment_2\\Assignment_2\\Book.cs",
+              "RelativeToolTip": "Assignment_2\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T17:38:05.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\LibraryMain\\Program1.cs",
+              "RelativeDocumentMoniker": "..\\LibraryMain\\Program1.cs",
+              "ToolTip": "C:\\Users\\RAVI SAI KIRAN\\Downloads\\.net\\Day_8_Projects\\LibraryMain\\Program1.cs",
+              "RelativeToolTip": "..\\LibraryMain\\Program1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:44:31.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

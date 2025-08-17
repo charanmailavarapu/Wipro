@@ -1,0 +1,6 @@
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_1\Assignment_1\bin\Debug\Assignment_1.dll
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_1\Assignment_1\bin\Debug\Assignment_1.pdb
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_1\Assignment_1\obj\Debug\Assignment_1.csproj.AssemblyReference.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_1\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_1\Assignment_1\obj\Debug\Assignment_1.dll
+C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8_Projects\Assignment_1\Assignment_1\obj\Debug\Assignment_1.pdb
