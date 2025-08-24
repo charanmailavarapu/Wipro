@@ -1,8 +1,0 @@
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\ExceptionHandling1\ExceptionHandling1\obj\Debug\ExceptionHandling1.csproj.AssemblyReference.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\ExceptionHandling1\ExceptionHandling1\obj\Debug\ExceptionHandling1.csproj.CoreCompileInputs.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\ExceptionHandling1\ExceptionHandling1\bin\Debug\ExceptionHandling1.exe.config
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\ExceptionHandling1\ExceptionHandling1\bin\Debug\ExceptionHandling1.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\ExceptionHandling1\ExceptionHandling1\bin\Debug\ExceptionHandling1.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\ExceptionHandling1\ExceptionHandling1\obj\Debug\ExceptionHandling1.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\ExceptionHandling1\ExceptionHandling1\obj\Debug\ExceptionHandling1.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\ExceptionHandling1\ExceptionHandling1\obj\Debug\ExceptionHandling1.exe.config

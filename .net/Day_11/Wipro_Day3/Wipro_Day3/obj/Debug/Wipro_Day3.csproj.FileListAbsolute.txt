@@ -1,8 +1,0 @@
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Wipro_Day3\Wipro_Day3\bin\Debug\Wipro_Day3.exe.config
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Wipro_Day3\Wipro_Day3\bin\Debug\Wipro_Day3.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Wipro_Day3\Wipro_Day3\bin\Debug\Wipro_Day3.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Wipro_Day3\Wipro_Day3\obj\Debug\Wipro_Day3.csproj.AssemblyReference.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Wipro_Day3\Wipro_Day3\obj\Debug\Wipro_Day3.csproj.CoreCompileInputs.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Wipro_Day3\Wipro_Day3\obj\Debug\Wipro_Day3.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Wipro_Day3\Wipro_Day3\obj\Debug\Wipro_Day3.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Wipro_Day3\Wipro_Day3\obj\Debug\Wipro_Day3.exe.config

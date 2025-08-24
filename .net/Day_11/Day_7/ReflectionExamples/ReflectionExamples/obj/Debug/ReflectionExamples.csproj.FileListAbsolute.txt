@@ -1,8 +1,0 @@
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.csproj.AssemblyReference.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.csproj.CoreCompileInputs.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\ReflectionExamples\ReflectionExamples\bin\Debug\ReflectionExamples.exe.config
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\ReflectionExamples\ReflectionExamples\bin\Debug\ReflectionExamples.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\ReflectionExamples\ReflectionExamples\bin\Debug\ReflectionExamples.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_7\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.exe.config

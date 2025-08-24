@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_18_razoremployproject\\razoremploycore\\razoremploycore\\pages\\employs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|solutionrelative:razoremploycore\\pages\\employs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_18_razoremployproject\\razoremploycore\\razoremploycore\\pages\\employs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|solutionrelative:razoremploycore\\pages\\employs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_18_razoremployproject\\razoremploycore\\razoremploycore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|solutionrelative:razoremploycore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_18_razoremployproject\\razoremploycore\\razoremploycore\\pages\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|solutionrelative:razoremploycore\\pages\\employs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_18_razoremployproject\\razoremploycore\\razoremploycore\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|solutionrelative:razoremploycore\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_18_razoremployproject\\razoremploycore\\razoremploycore\\pages\\employs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|solutionrelative:razoremploycore\\pages\\employs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_18_razoremployproject\\razoremploycore\\razoremploycore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4705724C-7188-4292-86B2-D7CC02659B59}|RazorEmployCore\\RazorEmployCore.csproj|solutionrelative:razoremploycore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Pages\\Employs\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployCore\\Pages\\Employs\\Create.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Pages\\Employs\\Create.cshtml",
+              "RelativeToolTip": "RazorEmployCore\\Pages\\Employs\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:11:14.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Pages\\Employs\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployCore\\Pages\\Employs\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Pages\\Employs\\Index.cshtml",
+              "RelativeToolTip": "RazorEmployCore\\Pages\\Employs\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:45:34.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Program.cs",
+              "RelativeDocumentMoniker": "RazorEmployCore\\Program.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Program.cs",
+              "RelativeToolTip": "RazorEmployCore\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:32:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Pages\\Employs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployCore\\Pages\\Employs\\Edit.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Pages\\Employs\\Edit.cshtml",
+              "RelativeToolTip": "RazorEmployCore\\Pages\\Employs\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:06:10.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Pages\\Employs\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorEmployCore\\Pages\\Employs\\Details.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Pages\\Employs\\Details.cshtml",
+              "RelativeToolTip": "RazorEmployCore\\Pages\\Employs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T09:08:01.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "RazorEmployCore\\Models\\Employ.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\Models\\Employ.cs",
+              "RelativeToolTip": "RazorEmployCore\\Models\\Employ.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:03:38.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorEmployCore\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_18_RazorEmployProject\\RazorEmployCore\\RazorEmployCore\\appsettings.json",
+              "RelativeToolTip": "RazorEmployCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T07:30:05.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,0 @@
-C:\Users\RAVI SAI KIRAN\Downloads\.net\CalculationLibarary\CalculationLibarary\bin\Debug\CalculationLibarary.dll
-C:\Users\RAVI SAI KIRAN\Downloads\.net\CalculationLibarary\CalculationLibarary\bin\Debug\CalculationLibarary.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\CalculationLibarary\CalculationLibarary\obj\Debug\CalculationLibarary.csproj.AssemblyReference.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\CalculationLibarary\CalculationLibarary\obj\Debug\CalculationLibarary.csproj.CoreCompileInputs.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\CalculationLibarary\CalculationLibarary\obj\Debug\CalculationLibarary.dll
-C:\Users\RAVI SAI KIRAN\Downloads\.net\CalculationLibarary\CalculationLibarary\obj\Debug\CalculationLibarary.pdb

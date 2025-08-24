@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_19_mvc_project\\mvcdemocore\\mvcdemocore\\views\\employcontoller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employcontoller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_19_mvc_project\\mvcdemocore\\mvcdemocore\\views\\employcontoller\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employcontoller\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_19_mvc_project\\mvcdemocore\\mvcdemocore\\views\\employcontoller\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employcontoller\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_19_mvc_project\\mvcdemocore\\mvcdemocore\\views\\employcontoller\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employcontoller\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_19_mvc_project\\mvcdemocore\\mvcdemocore\\views\\employcontoller\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|solutionrelative:mvcdemocore\\views\\employcontoller\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_19_mvc_project\\mvcdemocore\\mvcdemocore\\controllers\\democontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|solutionrelative:mvcdemocore\\controllers\\democontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|d:\\wipro_practice\\.net\\day_11\\aug_19_mvc_project\\mvcdemocore\\mvcdemocore\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79D285BE-4514-43C1-80DE-F8683C0267F5}|MvcDemoCore\\MvcDemoCore.csproj|solutionrelative:mvcdemocore\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcDemoCore\\Views\\EmployContoller\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Index.cshtml",
+              "RelativeToolTip": "MvcDemoCore\\Views\\EmployContoller\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T09:11:05.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Search.cshtml",
+              "RelativeDocumentMoniker": "MvcDemoCore\\Views\\EmployContoller\\Search.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Search.cshtml",
+              "RelativeToolTip": "MvcDemoCore\\Views\\EmployContoller\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T09:10:08.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcDemoCore\\Views\\EmployContoller\\Edit.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Edit.cshtml",
+              "RelativeToolTip": "MvcDemoCore\\Views\\EmployContoller\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T09:09:25.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcDemoCore\\Views\\EmployContoller\\Delete.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Delete.cshtml",
+              "RelativeToolTip": "MvcDemoCore\\Views\\EmployContoller\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T09:07:38.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcDemoCore\\Views\\EmployContoller\\Create.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\EmployContoller\\Create.cshtml",
+              "RelativeToolTip": "MvcDemoCore\\Views\\EmployContoller\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T09:06:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcDemoCore\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "MvcDemoCore\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T06:17:45.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DemoController1.cs",
+              "DocumentMoniker": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Controllers\\DemoController1.cs",
+              "RelativeDocumentMoniker": "MvcDemoCore\\Controllers\\DemoController1.cs",
+              "ToolTip": "D:\\Wipro_Practice\\.net\\Day_11\\Aug_19_MVC_Project\\MvcDemoCore\\MvcDemoCore\\Controllers\\DemoController1.cs",
+              "RelativeToolTip": "MvcDemoCore\\Controllers\\DemoController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:11:56.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

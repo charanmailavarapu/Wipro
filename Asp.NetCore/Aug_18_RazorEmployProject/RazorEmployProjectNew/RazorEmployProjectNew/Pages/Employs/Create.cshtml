@@ -1,0 +1,65 @@
+﻿@page
+@model RazorEmployProjectNew.Pages.Employs.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>EmployNew</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="EmployNew.Empno" class="control-label"></label>
+                <input asp-for="EmployNew.Empno" class="form-control" />
+                <span asp-validation-for="EmployNew.Empno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="EmployNew.Name" class="control-label"></label>
+                <input asp-for="EmployNew.Name" class="form-control" />
+                <span asp-validation-for="EmployNew.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="EmployNew.Gender" class="control-label"></label>
+                <input asp-for="EmployNew.Gender" class="form-control" />
+                <span asp-validation-for="EmployNew.Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="EmployNew.Dept" class="control-label"></label>
+                <input asp-for="EmployNew.Dept" class="form-control" />
+                <span asp-validation-for="EmployNew.Dept" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="EmployNew.Desig" class="control-label"></label>
+                <input asp-for="EmployNew.Desig" class="form-control" />
+                <span asp-validation-for="EmployNew.Desig" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <span class="text-danger">*</span>
+                <label asp-for="EmployNew.Basic" class="control-label"></label>
+                <input asp-for="EmployNew.Basic" class="form-control" />
+                <span asp-validation-for="EmployNew.Basic" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

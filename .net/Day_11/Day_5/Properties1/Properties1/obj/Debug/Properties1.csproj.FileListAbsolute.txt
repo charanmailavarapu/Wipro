@@ -1,8 +1,0 @@
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Properties1\Properties1\bin\Debug\Properties1.exe.config
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Properties1\Properties1\bin\Debug\Properties1.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Properties1\Properties1\bin\Debug\Properties1.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Properties1\Properties1\obj\Debug\Properties1.csproj.AssemblyReference.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Properties1\Properties1\obj\Debug\Properties1.csproj.CoreCompileInputs.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Properties1\Properties1\obj\Debug\Properties1.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Properties1\Properties1\obj\Debug\Properties1.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_5\Properties1\Properties1\obj\Debug\Properties1.exe.config

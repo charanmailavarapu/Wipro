@@ -1,8 +1,0 @@
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8\NUnitDemos\NUnitDemos\bin\Debug\NUnitDemos.exe.config
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8\NUnitDemos\NUnitDemos\bin\Debug\NUnitDemos.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8\NUnitDemos\NUnitDemos\bin\Debug\NUnitDemos.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8\NUnitDemos\NUnitDemos\obj\Debug\NUnitDemos.csproj.AssemblyReference.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8\NUnitDemos\NUnitDemos\obj\Debug\NUnitDemos.csproj.CoreCompileInputs.cache
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8\NUnitDemos\NUnitDemos\obj\Debug\NUnitDemos.exe
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8\NUnitDemos\NUnitDemos\obj\Debug\NUnitDemos.pdb
-C:\Users\RAVI SAI KIRAN\Downloads\.net\Day_8\NUnitDemos\NUnitDemos\obj\Debug\NUnitDemos.exe.config
