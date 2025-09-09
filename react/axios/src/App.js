@@ -1,0 +1,23 @@
+import logo from './logo.svg';
+import './App.css';
+import UserShow from './components/usershow/usershow';
+import EmployShow from './components/employshow/employshow';
+import UserSearch from './components/usersearch/usersearch';
+import EmploySearch from './components/employsearch/employsearch';
+import PostSearch from './components/postsearch/postsearch';
+import PostShow from './components/postshow/postshow';
+
+function App() {
+  return (
+    <div className='App'>
+      <UserShow /> <br/>
+      <EmployShow /> <br/>
+      <UserSearch /> <br/>
+      <EmploySearch /> <br/>
+      <PostSearch /> <br/>
+      <PostShow /> 
+    </div>
+  );
+}
+
+export default App;
