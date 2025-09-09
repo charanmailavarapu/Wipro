@@ -1,0 +1,6 @@
+@Aug_25_GitHub_Authenication_HostAddress = http://localhost:5127
+
+GET {{Aug_25_GitHub_Authenication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

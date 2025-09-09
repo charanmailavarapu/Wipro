@@ -1,6 +1,10 @@
 using Microsoft.EntityFrameworkCore;
-using RestEmployCrud.Controllers.Models;
+using RestEmployCrud.Models;
+using RestEmployCrud.Services;
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddHttpClient<IApiService, ApiService>();
 
 // Add services to the container.
 builder.Services.AddCors(options =>
@@ -30,6 +34,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseCors();
 
 app.UseHttpsRedirection();
 

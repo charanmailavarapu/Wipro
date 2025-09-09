@@ -1,0 +1,6 @@
+@RestEmployBackUp_HostAddress = http://localhost:5262
+
+GET {{RestEmployBackUp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -78,6 +78,7 @@ namespace BankProject.Controllers
         [HttpPost("/register/{username}/{password}")]
         public async Task<ActionResult<string>> LoginPost(string username, string password)
         {
+
             Login login = new Login
             {
                 UserName = username,

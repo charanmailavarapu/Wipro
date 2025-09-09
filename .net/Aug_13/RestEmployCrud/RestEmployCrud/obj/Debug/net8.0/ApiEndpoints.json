@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[RestEmployCrud.Controllers.Models.Employ, RestEmployCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RestEmployCrud.Models.Employ, RestEmployCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,13 +29,13 @@
     "Parameters": [
       {
         "Name": "employ",
-        "Type": "RestEmployCrud.Controllers.Models.Employ",
+        "Type": "RestEmployCrud.Models.Employ",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "RestEmployCrud.Controllers.Models.Employ",
+        "Type": "RestEmployCrud.Models.Employ",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "RestEmployCrud.Controllers.Models.Employ",
+        "Type": "RestEmployCrud.Models.Employ",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -86,7 +86,7 @@
       },
       {
         "Name": "employ",
-        "Type": "RestEmployCrud.Controllers.Models.Employ",
+        "Type": "RestEmployCrud.Models.Employ",
         "IsRequired": true
       }
     ],
@@ -97,6 +97,48 @@
     "Method": "DeleteEmploy",
     "RelativePath": "api/Employs/{id}",
     "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestEmployCrud.Controllers.RestEmployController",
+    "Method": "ShowEmployAll",
+    "RelativePath": "api/RestEmploy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestEmployCrud.Controllers.RestEmployController",
+    "Method": "AddEmploy",
+    "RelativePath": "api/RestEmploy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employ",
+        "Type": "RestEmployCrud.Models.Employ",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestEmployCrud.Controllers.RestEmployController",
+    "Method": "SearchEmploy",
+    "RelativePath": "api/RestEmploy/{id}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
