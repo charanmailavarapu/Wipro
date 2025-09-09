@@ -1,0 +1,134 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border: none;
+  border-radius: 4px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+  text-decoration: none;
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.btn-loading {
+  cursor: wait;
+}
+
+/* Button sizes */
+.btn-small {
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
+.btn-medium {
+  padding: 8px 16px;
+  font-size: 14px;
+}
+
+.btn-large {
+  padding: 12px 24px;
+  font-size: 16px;
+}
+
+/* Button variants */
+.btn-primary {
+  background-color: #0052cc;
+  color: white;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background-color: #0065ff;
+}
+
+.btn-primary:active:not(:disabled) {
+  background-color: #0044aa;
+}
+
+.btn-secondary {
+  background-color: #f4f5f7;
+  color: #42526e;
+}
+
+.btn-secondary:hover:not(:disabled) {
+  background-color: #ebecf0;
+}
+
+.btn-secondary:active:not(:disabled) {
+  background-color: #dfe1e6;
+}
+
+.btn-outline {
+  background-color: transparent;
+  border: 1px solid #dfe1e6;
+  color: #42526e;
+}
+
+.btn-outline:hover:not(:disabled) {
+  background-color: #f4f5f7;
+}
+
+.btn-outline:active:not(:disabled) {
+  background-color: #ebecf0;
+}
+
+.btn-text {
+  background-color: transparent;
+  color: #0052cc;
+}
+
+.btn-text:hover:not(:disabled) {
+  background-color: rgba(0, 82, 204, 0.1);
+}
+
+.btn-text:active:not(:disabled) {
+  background-color: rgba(0, 82, 204, 0.2);
+}
+
+.btn-error {
+  background-color: #ff5630;
+  color: white;
+}
+
+.btn-error:hover:not(:disabled) {
+  background-color: #ff7452;
+}
+
+.btn-error:active:not(:disabled) {
+  background-color: #de350b;
+}
+
+.btn-success {
+  background-color: #36b37e;
+  color: white;
+}
+
+.btn-success:hover:not(:disabled) {
+  background-color: #57d5ad;
+}
+
+.btn-success:active:not(:disabled) {
+  background-color: #00875a;
+}
+
+/* Button with icon */
+.btn-icon {
+  padding: 8px;
+  min-width: auto;
+}
+
+/* Spinner animation */
+.btn-spinner {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

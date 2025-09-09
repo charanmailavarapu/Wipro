@@ -1,0 +1,53 @@
+.project-header {
+  margin-bottom: 24px;
+}
+
+.project-info h1 {
+  font-size: 28px;
+  color: #172b4d;
+  margin-bottom: 8px;
+}
+
+.project-info p {
+  color: #5e6c84;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.project-actions {
+  margin-bottom: 24px;
+}
+
+.project-tabs {
+  display: flex;
+  border-bottom: 1px solid #dfe1e6;
+}
+
+.tab-button {
+  padding: 12px 16px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: #5e6c84;
+  position: relative;
+}
+
+.tab-button.active {
+  color: #0052cc;
+  font-weight: 500;
+}
+
+.tab-button.active::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: #0052cc;
+}
+
+.tab-button:hover {
+  background-color: #f4f5f7;
+}

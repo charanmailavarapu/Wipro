@@ -1,0 +1,104 @@
+.project-members {
+  background: white;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.members-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.members-header h2 {
+  color: #172b4d;
+  margin: 0;
+}
+
+.members-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.member-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  border: 1px solid #dfe1e6;
+  border-radius: 8px;
+  background: #fafbfc;
+}
+
+.member-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.member-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #0052cc;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.member-details h4 {
+  margin: 0 0 4px 0;
+  color: #172b4d;
+  font-size: 16px;
+}
+
+.member-details p {
+  margin: 0 0 4px 0;
+  color: #5e6c84;
+  font-size: 14px;
+}
+
+.member-role {
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.member-role.admin {
+  background-color: #ffebe6;
+  color: #de350b;
+}
+
+.member-role.projectmanager {
+  background-color: #fffaeb;
+  color: #ff8b00;
+}
+
+.member-role.teammember {
+  background-color: #e3fcef;
+  color: #00875a;
+}
+
+.member-role.viewer {
+  background-color: #deebff;
+  color: #0052cc;
+}
+
+.member-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.empty-members {
+  text-align: center;
+  padding: 40px;
+  color: #5e6c84;
+}
